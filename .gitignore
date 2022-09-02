@@ -73,3 +73,9 @@ build
 .gradle
 *.pid
 /chapter_002/src/main/java/test/
+/build.gradle
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/settings.gradle
